@@ -1,5 +1,5 @@
 class Game {
-  roll() {
-    return 0;
+  roll(number) {
+    return number;
   }
 }
